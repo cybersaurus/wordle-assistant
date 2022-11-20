@@ -1,5 +1,5 @@
 ### Wordle Assistant
-Created as an experiment to play with [Scala CLI]([https://scala-cli.virtuslab.org/]).
+Created as an experiment to play with [Scala CLI](https://scala-cli.virtuslab.org/).
 
 To make the script executable:
 ```shell
